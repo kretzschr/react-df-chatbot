@@ -1,0 +1,6 @@
+node_modules
+udemyreactpageagent*
+config/keys.js
+
+client/node_modules
+client/.env
